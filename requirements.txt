@@ -1,0 +1,7 @@
+pytelegrambotapi
+flask
+pymongo
+psutil
+dnspython
+certifi
+requests
